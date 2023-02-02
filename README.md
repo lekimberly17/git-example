@@ -15,4 +15,6 @@ Git commands
 Collaborating with Git
     - remotes
     - git merge
+    
+Finished taks
 
